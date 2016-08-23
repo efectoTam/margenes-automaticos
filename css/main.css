@@ -1,0 +1,15 @@
+div {
+	width: 225px;
+	height: 225px;
+	border: yellow 20px solid;
+}
+
+p{
+	text-align: center;
+	margin: 30px 15px 35px 15px;
+}
+
+.divdos{
+
+	margin-left: 470px;
+}
